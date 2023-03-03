@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+製作 Product Header Footer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+src/pages/Product 為我負責產品的部分
 
-## Available Scripts
+# 前端技術
 
-In the project directory, you can run:
+使用 React.js
 
-### `npm start`
+#
+### 產品首頁
+![](https://i.imgur.com/h5MiVbp.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![](https://i.imgur.com/5F9uSt5.jpg)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 產品詳細頁
 
-### `npm test`
+![](https://i.imgur.com/PpazyxK.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![](https://i.imgur.com/LH6r8YM.jpg)
 
-### `npm run build`
+### 收藏
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![](https://i.imgur.com/eoPgGn0.jpg)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 評論 商品輪播
 
-### `npm run eject`
+![](https://i.imgur.com/IuUrRJA.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![](https://i.imgur.com/KTt3hIe.jpg)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 搜尋
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![](https://i.imgur.com/R9EbCqf.png)
+先在產品首頁搜尋
+![](https://i.imgur.com/JT1HFP7.png)
+帶到搜尋頁
+![](https://i.imgur.com/TPc0hMY.png)
