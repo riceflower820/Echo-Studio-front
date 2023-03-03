@@ -1,3 +1,4 @@
+# SHOW
 製作 Product Header Footer
 
 src/pages/Product 為我負責產品的部分
